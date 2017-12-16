@@ -1,2 +1,2 @@
-# tennis-matcher
-App that collects RSVPs and then builds out tennis matches based on them
+# Tennis Matcher
+Notifies people of upcoming matches and records their RSVPs
